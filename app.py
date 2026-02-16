@@ -5,3 +5,4 @@ def login():
 
 def signup():
     print("Signup Feature Working")
+    print("Login Feature Working")
